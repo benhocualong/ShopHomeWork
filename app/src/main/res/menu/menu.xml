@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/opt_setting"
+        android:icon="@drawable/baseline_search_24"
+        android:title="Setting"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/opt_cart"
+        android:icon="@drawable/reshot_icon_empty_cart_fh5ur2wgkn"
+        android:title="Cart"
+        app:showAsAction="ifRoom" />
+</menu>
